@@ -1,6 +1,6 @@
 # shopping-cart
 
-> A Vue.js project
+> A Vue.js project(购物车)
 
 ## Build Setup
 
